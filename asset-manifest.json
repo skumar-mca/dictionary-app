@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/notes-manager/dictionary-app/static/css/main.9acff8ed.chunk.css",
+    "main.js": "/notes-manager/dictionary-app/static/js/main.c0895125.chunk.js",
+    "main.js.map": "/notes-manager/dictionary-app/static/js/main.c0895125.chunk.js.map",
+    "runtime-main.js": "/notes-manager/dictionary-app/static/js/runtime-main.3454f548.js",
+    "runtime-main.js.map": "/notes-manager/dictionary-app/static/js/runtime-main.3454f548.js.map",
+    "static/js/2.8a596a6d.chunk.js": "/notes-manager/dictionary-app/static/js/2.8a596a6d.chunk.js",
+    "static/js/2.8a596a6d.chunk.js.map": "/notes-manager/dictionary-app/static/js/2.8a596a6d.chunk.js.map",
+    "index.html": "/notes-manager/dictionary-app/index.html",
+    "precache-manifest.b0b483e6c978a090493c0bd7de3f2824.js": "/notes-manager/dictionary-app/precache-manifest.b0b483e6c978a090493c0bd7de3f2824.js",
+    "service-worker.js": "/notes-manager/dictionary-app/service-worker.js",
+    "static/css/main.9acff8ed.chunk.css.map": "/notes-manager/dictionary-app/static/css/main.9acff8ed.chunk.css.map",
+    "static/js/2.8a596a6d.chunk.js.LICENSE.txt": "/notes-manager/dictionary-app/static/js/2.8a596a6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3454f548.js",
+    "static/js/2.8a596a6d.chunk.js",
+    "static/css/main.9acff8ed.chunk.css",
+    "static/js/main.c0895125.chunk.js"
+  ]
+}
