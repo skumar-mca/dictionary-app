@@ -1,0 +1,42 @@
+.search-result-image img {
+    height: 250px;
+    width: 100%;
+}
+.main-content {
+    padding: 20px;
+}
+
+.saved-search-box {
+    padding: 10px!important;
+    text-align: center;
+}
+.saved-searches {
+    margin-right: 5px!important;
+    margin-bottom: 5px!important;
+}
+
+.example-text {
+    color: #9c8f8f;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.sub-info {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-align: justify;
+    width: 80%;
+    margin: 0px 0px 0px 15px;
+}
+
+.sub-definition{
+    font-size: 0.9em;
+    margin-bottom: 14px;
+    text-align: justify;
+}
+
+.white-link { color: white!important;}
+.speak-box { cursor: pointer;  margin-right: 20px; }
